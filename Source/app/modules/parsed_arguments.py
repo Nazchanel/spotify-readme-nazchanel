@@ -26,7 +26,7 @@ class ParsedArgs:
     theme: THEME = THEME.LIGHT
     eq_color: str = COLORS.SPOTIFY_GREEN
     width: int = 500  # Unused for now but will be used in the future
-
+    
     @property
     def main_background_color(self) -> str:
         if self.theme == THEME.LIGHT:
