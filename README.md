@@ -77,7 +77,7 @@
 #### Combination
 
 ```
-?spin=true&scan=true&eq_color=rainbow&theme=dark
+?spin=true&scan=true&eq_color=rainbow&theme=dark&timeline=true
 ```
 
 ![Preview](https://nazchanel.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark&timeline=true)
