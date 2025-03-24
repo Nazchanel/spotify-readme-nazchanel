@@ -1,5 +1,5 @@
 > [!NOTE]  
-> This fork adds PAUSE functionality and a time line
+> Fork adds seeing whether the song is *paused* and a timeline parameter showing the the time left and elapsed in a line.
 
 <div align="center">
   <img src="Images/Spotify.svg" width="100" align="center">
