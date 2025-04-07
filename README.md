@@ -4,11 +4,6 @@
 <div align="center">
   <img src="Images/Spotify.svg" width="100" align="center">
   <h1>Spotify Readme</h1>
-
-[![Badge](https://img.shields.io/github/issues/tthn0/Spotify-Readme?style=for-the-badge)](https://github.com/tthn0/Spotify-Readme/issues)
-[![Badge](https://img.shields.io/github/forks/tthn0/Spotify-Readme?style=for-the-badge)](https://github.com/tthn0/Spotify-Readme/network)
-[![Badge](https://img.shields.io/github/stars/tthn0/Spotify-Readme?style=for-the-badge)](https://github.com/tthn0/Spotify-Readme/stargazers)
-
 </div>
 
 <p align="center">
@@ -86,4 +81,4 @@
 ![Preview](https://github.com/user-attachments/assets/08d4304f-401f-479a-9b45-d68fa4cc75bb)
 
 ## Setup
-Refer to the original repository's [instructions](https://github.com/tthn0/Spotify-Readme)
+Refer to the original repository's [instructions](https://github.com/Nazchanel/spotify-readme-nazchanel )
