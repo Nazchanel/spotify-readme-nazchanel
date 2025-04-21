@@ -81,4 +81,4 @@
 ![Preview](https://github.com/user-attachments/assets/08d4304f-401f-479a-9b45-d68fa4cc75bb)
 
 ## Setup
-Refer to the original repository's [instructions](https://github.com/Nazchanel/spotify-readme-nazchanel )
+Refer to the original repository's [instructions](https://github.com/tthn0/Spotify-Readme)
